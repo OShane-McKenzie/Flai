@@ -1,6 +1,8 @@
 # Flai
 Floating AI - is a chatbot created in python using OpenAI's api.
 
+(Pronounced as: Flay) (-_-)
+
 You can choose from a list of predefined personalitites that the AI will assume.
 
 ![1](./ScreenShots/1.png)
